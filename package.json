@@ -1,0 +1,29 @@
+{
+  "name": "funerial",
+  "version": "1.0.0",
+  "description": "An application for letting go.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technakal/funerial.git"
+  },
+  "keywords": [
+    "grief",
+    "anxiety"
+  ],
+  "author": "N. Keener",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/technakal/funerial/issues"
+  },
+  "homepage": "https://github.com/technakal/funerial#readme",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  },
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  }
+}
